@@ -1,1 +1,2 @@
 # Contents
+* Shortcuts of fundamentals
