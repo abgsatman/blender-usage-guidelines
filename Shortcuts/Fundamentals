@@ -17,6 +17,6 @@ shift + a: herhangi bir şey eklemek için (text yapmak için) seçim alanı
 l: seçili(tıklanan) nesneyi komple seçer
 g: tutup yerini değiştirir
 tab: edit mode ve diğer modlar arası geçiş yapar
-0: kamera açısını. önizler
+0: kamera açısını önizler
 C + middle mouse random seçim
 Ctrl + right mouse random seçim
